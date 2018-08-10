@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your Ruby application on OpenShift</h1>
+            <h1>Steve's Big change!!!!</h1>
           </hgroup>
 
 
@@ -248,8 +248,7 @@ pre {
             <section>
               <h2>Deploying code changes</h2>
                 <p>
-                  The source code for this application is available to be forked from the <a href="https://www.github.com/openshift/ruby-ex">OpenShift GitHub repository</a>.
-                  You can configure a webhook in your repository to make OpenShift automatically start a build whenever you push your code:
+                 wahooo
                 </p>
 
 <ol>
